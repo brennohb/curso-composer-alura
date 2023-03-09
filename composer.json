@@ -17,6 +17,9 @@
     "classmap": [
       "./Teste.php"
     ],
+    "files": [
+      "./functions.php"
+    ],
     "psr-4": {
       "Alura\\BuscadorDeCursos\\": "src/"
     }
@@ -41,5 +44,6 @@
   },
   "scripts-descriptions": {
     "check": "Roda as verificações do código. PHAN, PHPCS e PHPUNIT"
-  }
+  },
+  "license": "GPL-3.0"
 }
